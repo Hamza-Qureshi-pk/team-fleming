@@ -7,4 +7,4 @@ print ("LANGUAGE: Python 3.7")
 #Biostack
 print ("BIOSTACK: Drug development, team fleming")
 #slack username
-print("SLACK USERNAME: @nyaga")
+print("SLACK USERNAME: @Nyaga")
