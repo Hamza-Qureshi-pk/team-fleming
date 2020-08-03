@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug  3 17:59:40 2020
-
-@author: hp
-"""
-
 #Name of user
 print ("NAME: Nelly Nyaga")
 #email Adress
