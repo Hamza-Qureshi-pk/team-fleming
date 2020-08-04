@@ -8,3 +8,4 @@ HackBio2020 team up for Stage 0.
 3. @Susmi 
 4. @Qamar 
 5. @Nyaga
+6. @Mazhar
