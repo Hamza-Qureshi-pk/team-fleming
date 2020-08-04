@@ -1,4 +1,4 @@
-![fleming](https://user-images.githubusercontent.com/49978636/89267155-49140d00-d650-11ea-983d-6751ea088547.png)
+![fleming](https://user-images.githubusercontent.com/49978636/89268011-61d0f280-d651-11ea-8fd9-8629ae4a565c.png)
  
 ## Members Names (those done with task)
 
