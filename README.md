@@ -5,7 +5,7 @@
 1. @Hamza (team lead)
 2. @Oyewole 
 3. @Susmi 
-4. @Qamar 
+4. ~@Qamar~(deleted for an update)
 5. @Nyaga
 6. @Mazhar
 7. @Macok
@@ -14,8 +14,7 @@
 10. @Gsel01
 11. @Emmy
 12. @Vishnu
-13. @SamB
-14. @Kanakalakshmi
-15. @Pavi
-16. @Bayofash
-17. @Hasnat
+13. @Kanakalakshmi
+14. @Pavi
+15. @Bayofash
+16. @Hasnat
