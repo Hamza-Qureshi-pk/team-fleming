@@ -1,7 +1,7 @@
 # team-fleming
 HackBio2020 team up for Stage 0.
 
-![fleming](https://user-images.githubusercontent.com/49978636/89266482-68f70100-d64f-11ea-8fc3-e1c5584c168c.png)
+![fleming](https://user-images.githubusercontent.com/49978636/89267155-49140d00-d650-11ea-983d-6751ea088547.png)png)
  
 ## Members Names (those done with task)
 
