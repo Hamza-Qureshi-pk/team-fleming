@@ -6,5 +6,5 @@ Name: Karthikeyan
 Email: karthikeyan_imbsf@tcarts.in
 Language: Python
 Biostack Name: Drug discovery and Vaccine informatics
-slack name: Karthikeyan
+slack name: @Karthikeyan
 >>> 
