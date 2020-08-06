@@ -6,9 +6,9 @@ Name|Language|Dependency/Version
 @Hamza (team lead) | Java | (JDK 1.8.0)
 @Oyewole|           | 
 @Susmi| R          | R 3.5.3
-@Qamar|   C++       |GCC 4.9.2
+@Qamar|           |
 @Nyaga |Python 3.7 |Python 3.7
-@Mazhar|           |
+@Mazhar|      Java     |  (JDK 14.0.2)
 @Macok|             |
 @Olajumoke (Team assistant)| Python     |Python 3.8
 @Bunmi|            |
