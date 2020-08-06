@@ -21,7 +21,7 @@ Name|Language|Dependency/Version
 @Hasnat|Python 3.8|Python3.8
 @Hussain|         |
 @SamB|           |
-@Adaeze|  javascript         |
+@Adaeze|  C       |GCC 4.9.2
 @OTosinO|          |
 @Oluremi|          |
 @aji | Python 3.8 |Python 3.8
