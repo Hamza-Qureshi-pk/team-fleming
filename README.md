@@ -11,7 +11,7 @@ Name|Language|Dependency/Version
 @Mazhar|      Java     |  (JDK 14.0.2)
 @Macok|             |
 @Olajumoke (Team assistant)| Python     |Python 3.8
-@Bunmi|   Python  3.8        | Python 3.8
+@Bunmi|   Python  3.8.5        | Python 3.8.5
 @Gsel01| python 3           |pydroid 3 apk 4.0.1_arm64
 @Emmy|             |
 @Vishnu|             |
