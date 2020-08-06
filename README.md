@@ -10,7 +10,7 @@ Name|Language|Dependency/Version
 @Nyaga |Python 3.7 |Python 3.7
 @Mazhar|           |
 @Macok|             |
-@Olajumoke (Team assistant)|      |
+@Olajumoke (Team assistant)| Python     |Python 3.8
 @Bunmi|            |
 @Gsel01|            |
 @Emmy|             |
