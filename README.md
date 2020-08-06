@@ -4,7 +4,7 @@ Version
 Name|Language|Dependency/Version
 ------------ | ------------- | -------------
 @Hamza (team lead) | Java | (JDK 11.0.4)
-@Oyewole|           | 
+@Oyewole|  Python         | Python 3.6
 @Susmi| R          | R 3.5.3
 @Qamar|   C++        |GCC 4.9.2
 @Nyaga |Python 3.7 |Python 3.7
