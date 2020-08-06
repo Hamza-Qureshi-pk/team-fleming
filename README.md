@@ -14,7 +14,7 @@
 10. @Gsel01
 11. @Emmy
 12. @Vishnu
-13. Python @Kanakalakshmi
+13. @Kanakalakshmi- Python 3.8
 14. @Pavi
 15. @Bayofash
 16. @Hasnat
