@@ -1,9 +1,9 @@
 ![fleming](https://user-images.githubusercontent.com/49978636/89268011-61d0f280-d651-11ea-8fd9-8629ae4a565c.png)
  
-## Members Names             Language         Dependencies/Version
+Version
 Name|Language|Dependency/Version
 ------------ | ------------- | -------------
-@Hamza (team lead) | Java | (JDK 1.8.0)
+@Hamza (team lead) | Java | (JDK 11.0.4)
 @Oyewole|           | 
 @Susmi| R          | R 3.5.3
 @Qamar|   C++        |GCC 4.9.2
