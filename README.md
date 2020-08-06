@@ -14,7 +14,7 @@ Name|Language|Dependency/Version
 @Bunmi|   Python  3.8        | Python 3.8
 @Gsel01| python 3           |pydroid 3 apk 4.0.1_arm64
 @Emmy|             |
-@Vishnu|  PERL           |perl5.12.3
+@Vishnu|  PERL5           |perl5.12.3
 @Kanakalakshmi |Python 3.8 |Python 3.8
 @Pavi |ruby 2.6.6| ruby 2.6.6
 @Bayofash|         |
