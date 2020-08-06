@@ -3,7 +3,7 @@
 ## Members Names             Language         Dependencies/Version
 
 1. @Hamza (team lead)        Java            (JDK 1.8.0)
-2. @Oyewole                  Python 3.6       Python 3.6
+2. @Oyewole 
 3. @Susmi 
 4. @Qamar
 5. @Nyaga                   Python 3.7       Python 3.7  
@@ -13,7 +13,7 @@
 9. @Bunmi
 10. @Gsel01
 11. @Emmy
-12. @Vishnu
+12. @Vishnu                 perl5          perl5(v5.12.3)          
 13. @Kanakalakshmi          Python 3.8     Python 3.8
 14. @Pavi                   ruby 2.6.6     ruby 2.6.6
 15. @Bayofash
@@ -25,4 +25,4 @@
 21. @Oluremi
 22. @aji                     Python 3.8     Python 3.8
 23. @Karthikeyan             Python 3.8     Python 3.8
-https://github.com/HamzaQureshi21/team-fleming/issues/3#issue-674112919
+  24. https://github.com/HamzaQureshi21/team-fleming/issues/3#issue-674112919
