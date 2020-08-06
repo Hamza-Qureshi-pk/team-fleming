@@ -6,7 +6,7 @@
 2. @Oyewole 
 3. @Susmi 
 4. @Qamar
-5. @Nyaga
+5. @Nyaga - Python 3.7
 6. @Mazhar
 7. @Macok
 8. @Olajumoke (Team assistant)
