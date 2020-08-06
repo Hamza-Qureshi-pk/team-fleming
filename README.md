@@ -19,7 +19,7 @@ Name|Language|Dependency/Version
 @Pavi |ruby 2.6.6| ruby 2.6.6
 @Bayofash|         |
 @Hasnat|Python 3.8|Python3.8
-@Hussain|         |
+@Hussain| C++        |Dev-C++ IDE 5.11.0.0
 @SamB|    C++       |GCC 4.9.2
 @Adaeze|  C       |GCC 4.9.2
 @OTosinO|          |
