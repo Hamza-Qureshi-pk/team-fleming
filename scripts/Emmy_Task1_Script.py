@@ -1,6 +1,0 @@
-print("Name: Owolabi Emmanuel Sokefun")
-print("Email: eaibukunoluwa@gmail.com")
-print("Language: Python 3.85")
-print("Biostack: Vaccine Informatics")
-print("Slack name: @Emmy")
-print("GitHub Username: emmydon001")
