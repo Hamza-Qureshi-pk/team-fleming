@@ -11,9 +11,9 @@
 7. @Macok
 8. @Olajumoke (Team assistant)
 9. @Bunmi
-10. @Gsel01
+10. @Gsel01                python 3         pydroid 3 apk4.01_arm64
 11. @Emmy
-12. @Vishnu                 perl5          perl5(v5.12.3)          
+12. @Vishnu
 13. @Kanakalakshmi          Python 3.8     Python 3.8
 14. @Pavi                   ruby 2.6.6     ruby 2.6.6
 15. @Bayofash
@@ -25,4 +25,4 @@
 21. @Oluremi
 22. @aji                     Python 3.8     Python 3.8
 23. @Karthikeyan             Python 3.8     Python 3.8
-  24. https://github.com/HamzaQureshi21/team-fleming/issues/3#issue-674112919
+https://github.com/HamzaQureshi21/team-fleming/issues/3#issue-674112919
