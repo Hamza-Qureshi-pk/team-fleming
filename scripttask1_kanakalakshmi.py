@@ -1,5 +1,0 @@
-print("Name: Kanakalakshmi Annamalai")
-print("Email id: kanakalakshmi2088@gmail.com")
-print("Language: Python")
-print("Biostack Name: Vaccine Informatics")
-print("Slack Name: @kanakalakshmi")

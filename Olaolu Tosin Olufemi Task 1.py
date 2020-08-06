@@ -1,5 +1,0 @@
-print ('Name: Olaolu Tosin Olufemi')
-print ('email: toscoolufemi@gmail.com')
-print ('Language: Python')
-print ('Biostack: Genomics')
-print ('Slack username: @OTosinO')
