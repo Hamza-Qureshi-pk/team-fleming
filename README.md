@@ -20,7 +20,7 @@ Name|Language|Dependency/Version
 @Bayofash|         |
 @Hasnat|Python 3.8|Python3.8
 @Hussain|         |
-@SamB|    C++       |code::block 20.03
+@SamB|    C++       |GCC 4.9.2
 @Adaeze|  C       |GCC 4.9.2
 @OTosinO|          |
 @Oluremi|          |
