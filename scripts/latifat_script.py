@@ -1,0 +1,5 @@
+print ("Name: Latifat Fashina")
+print ("Email: fashinalat@gmail.com")
+print ("Language: Python")
+print ("Biostack: Genomics")
+print ("Slack name: @Gsel01")
