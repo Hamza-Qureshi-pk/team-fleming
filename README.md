@@ -5,7 +5,7 @@ Name|Language|Dependency/Version
 ------------ | ------------- | -------------
 @Hamza (team lead) | Java | (JDK 1.8.0)
 @Oyewole|           | 
-@Susmi|           |
+@Susmi| R          | R 3.5.3
 @Qamar|           |
 @Nyaga |Python 3.7 |Python 3.7
 @Mazhar|           |
