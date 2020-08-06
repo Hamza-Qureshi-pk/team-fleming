@@ -12,7 +12,7 @@ Name|Language|Dependency/Version
 @Macok|             |
 @Olajumoke (Team assistant)| Python     |Python 3.8
 @Bunmi|            |
-@Gsel01|            |
+@Gsel01| python 3           |pydroid 3 apk 4.0.1_arm64
 @Emmy|             |
 @Vishnu|             |
 @Kanakalakshmi |Python 3.8 |Python 3.8
