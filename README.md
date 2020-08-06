@@ -3,7 +3,7 @@
 ## Members Names             Language         Dependencies/Version
 
 1. @Hamza (team lead)        Java            (JDK 1.8.0)
-2. @Oyewole 
+2. @Oyewole                  Python 3.6       Python 3.6
 3. @Susmi 
 4. @Qamar
 5. @Nyaga                   Python 3.7       Python 3.7  
