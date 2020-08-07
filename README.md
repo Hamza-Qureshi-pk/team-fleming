@@ -23,7 +23,7 @@ Name|Language|Dependency/Version
 @SamB|    C++       |GCC 4.9.2
 @Adaeze|  C       |GCC 4.9.2
 @OTosinO|          |
-@Oluremi|          |
+@Oluremi|  Python        |Python 3.8
 @aji | Python 3.8 |Python 3.8
 @Karthikeyan| Python 3.8 |Python 3.8|
 @umer | C++     |Dev-C++ IDE 5.11.0.0
