@@ -1,5 +1,0 @@
-cat("Name: Tasmina Ferdous Susmi")
-cat("Email: tsusmi36@yahoo.com")
-cat("Language: R")
-cat(" Biostack: Drug Development")
-cat("slack username: @Susmi")
